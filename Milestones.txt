@@ -1,0 +1,11 @@
+HBR Text Analyser Milestones:
+
+Milestone 1: installation and start working with python [7/12/18 - 8/12/18]
+
+Milestone 2: Analysisng the ways to get the output from the input [9/12/18 - 11/12/18]
+
+Milestone 3: Designing an algorithm[12/12/18 - 15/12/18]
+
+Milestone 4: Coding and Debugging [16/12/18 - 22/12/18]
+
+Milestone 5: Further improvements and optimisation [22/12/18 - 27/12/18]

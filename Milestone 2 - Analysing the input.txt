@@ -1,0 +1,8 @@
+Inferences:
+
+1. Summary contains only a few important sentances - Identify important sentances
+2. The important sentances in the text usually contains the keywords - Identify the keywords
+3. Summary doesn't contain long sentances - Break the sentance
+4. Summary doesn't contain too many descriptive and stop words - Remove unnecessary words.
+5. Do not add and any extra points - The summary should contain only the points in the text
+6. Summary should have sentances with most keywords

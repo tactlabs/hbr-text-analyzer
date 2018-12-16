@@ -1,0 +1,27 @@
+l = []
+count={}
+
+text = input("Enter the text : ").split()
+
+for word in text:
+    word=word.lower()
+    word = word.replace(".","")
+    word = word.replace("'","")
+    word = word.replace('"',"")
+    word = word.replace(":","")
+    word = word.replace(",","")
+    word = word.replace(";","")
+    
+    flag = 0
+    for i in l:
+        if(i==word):
+            count[word]+=1
+            flag = 1
+            break
+    
+    if(flag==0):
+        count[word]=1
+        l.append(word)
+
+print (l)
+print (count)

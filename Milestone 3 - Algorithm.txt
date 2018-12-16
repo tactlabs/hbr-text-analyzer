@@ -1,0 +1,19 @@
+Algorithm:
+
+I. Clean the input text:
+1. Obtain the input text from the user.
+2. Remove the Stop words, Punctuations and blank spaces.
+
+II. Identify the keywords:
+1. Split the input text into single words.
+2. Find the count of each word.
+3. The words having more count is the keyword (Keywords are the most frequently used words).
+
+III. Select the important sentances:
+1. Pick sentances from the text.
+2. For wach sentance, calculate its score by adding the frequency count of the keywords n that sentance.
+3. Select the sentance that adds to the score more than the threshold value that is set.
+
+IV. Display the summary:
+1. Sort the sentances in the decreasing order of their score.
+2. Display the sorted sentances as the summary.
